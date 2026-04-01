@@ -46,6 +46,7 @@
 			</Description>			
 			<Author>Zilox</Author>
 			<Deploy>Partial</Deploy>
+			<DownloadMode>Release</DownloadMode>			
 			<Version>Latest</Version>
 			<Discord>https://discord.gg/5HrpRdGxKd</Discord>
             <Donate>https://www.paypal.com/donate/?hosted_button_id=S96TPW9B2MSBW</Donate>	
